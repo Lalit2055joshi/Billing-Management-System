@@ -1,0 +1,9 @@
+customer_name,email,from_date,subscription_time,status,amount,to_date
+lalit,lalit2055joshi@gmail.com,2022-12-12,0,unpaid,0,0
+lalit,lalit2055joshi@gmail.com,2022-12-12,1month,paid,300,2023-01-11
+lalit,lalit2055joshi@gmail.com,2022-12-12,1month,paid,300,2023-01-11
+lalit,lalit2055joshi@gmail.com,2022-12-12,6month,paid,1200,2023-06-10
+lalit,lalit2055joshi@gmail.com,2022-12-12,1year,paid,2000,2023-12-07
+lalit,lalit2055joshi@gmail.com,2022-12-12,1month,paid,300,2023-01-11
+lalit,lalit2055joshi@gmail.com,2022-12-12,0,unpaid,0,0
+lalit,lalit2055joshi@gmail.com,2022-12-12,1year,paid,2000,2023-12-07
